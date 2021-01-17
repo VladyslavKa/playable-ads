@@ -19,10 +19,11 @@
   },
   "homepage": "https://github.com/vladyslav666/playable-ads#readme",
   "dependencies": {
-    "http-server": "^0.12.3",
+    "gsap": "^3.6.0",
     "pixi.js": "^5.3.7"
   },
   "devDependencies": {
+    "copy-webpack-plugin": "^7.0.0",
     "html-webpack-plugin": "^5.0.0-beta.4",
     "webpack": "^5.12.3",
     "webpack-cli": "^4.3.1",

@@ -1,2 +1,2 @@
 # playable-ads
-npm
+npm run start:dev-server
